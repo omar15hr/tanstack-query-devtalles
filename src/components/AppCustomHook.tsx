@@ -1,4 +1,4 @@
-import { useRandom } from "../../hooks/useRandom";
+import { useRandom } from "../hooks/useRandom";
 import "./App.css";
 
 function App() {
